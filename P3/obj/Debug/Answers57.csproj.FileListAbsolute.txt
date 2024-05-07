@@ -1,0 +1,7 @@
+C:\Users\ori05\source\repos\Answers57\Answers57\bin\Debug\Answers57.exe.config
+C:\Users\ori05\source\repos\Answers57\Answers57\bin\Debug\Answers57.exe
+C:\Users\ori05\source\repos\Answers57\Answers57\bin\Debug\Answers57.pdb
+C:\Users\ori05\source\repos\Answers57\Answers57\obj\Debug\Answers57.csproj.AssemblyReference.cache
+C:\Users\ori05\source\repos\Answers57\Answers57\obj\Debug\Answers57.csproj.CoreCompileInputs.cache
+C:\Users\ori05\source\repos\Answers57\Answers57\obj\Debug\Answers57.exe
+C:\Users\ori05\source\repos\Answers57\Answers57\obj\Debug\Answers57.pdb
