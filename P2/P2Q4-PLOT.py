@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 
 
 def process_sequence():
+    """
+    Process a sequence of numbers and returns data based on the requirements
+    """
     numbers = []
     x_coords = []
 
