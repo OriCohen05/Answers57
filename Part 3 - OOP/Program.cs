@@ -24,6 +24,10 @@ namespace Answers57
 
             list.Sort();
 
+            NumericalExpression expression = new NumericalExpression(99999999);
+            Console.WriteLine(expression);
+            Console.WriteLine(NumericalExpression.SumLetters(expression));
+            Console.ReadLine();
             
         }
     }
