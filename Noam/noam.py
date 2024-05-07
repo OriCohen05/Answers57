@@ -1,1 +1,0 @@
-print("Noam source control file")
